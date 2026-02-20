@@ -419,26 +419,26 @@ h3 {
 /* line 1, ../../Arafath/CL/Cl November/227. Health _ Fitness/HTML/scss/_btn.scss */
 .boxed-btn {
   background: #fff;
-  color: #e7ff00;
+  color: #1b9cd9;
   display: inline-block;
   padding: 12px 44px;
   font-family: "Teko", sans-serif;
   font-size: 16px;
   font-weight: 600;
   border: 0;
-  border: 1px solid #e7ff00;
+  border: 1px solid #1b9cd9;
   letter-spacing: 3px;
   text-align: center;
-  color: #e7ff00 !important;
+  color: #1b9cd9 !important;
   text-transform: uppercase;
   cursor: pointer;
 }
 
 /* line 17, ../../Arafath/CL/Cl November/227. Health _ Fitness/HTML/scss/_btn.scss */
 .boxed-btn:hover {
-  background: #e7ff00;
+  background: #1b9cd9;
   color: #fff !important;
-  border: 1px solid #e7ff00;
+  border: 1px solid #1b9cd9;
 }
 
 /* line 22, ../../Arafath/CL/Cl November/227. Health _ Fitness/HTML/scss/_btn.scss */
@@ -1071,13 +1071,13 @@ h3 {
 
 /* line 101, ../../Arafath/CL/Cl November/227. Health _ Fitness/HTML/scss/_header.scss */
 .header-area .main-header-area .Appointment .book_btn a {
-  background: #169bd7;
+  background: #e7ff00;
   font-family: "Teko", sans-serif;
   padding: 12px 46px;
   font-size: 16px;
   font-weight: 600;
   border: 1px solid transparent;
-  color: #fff;
+  color: #000000;
   -webkit-border-radius: 0px;
   -moz-border-radius: 0px;
   border-radius: 0px;
@@ -1286,7 +1286,7 @@ h3 {
   -webkit-transition: transform 500ms ease, background 500ms ease;
   box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
   padding: 10px 150px;
-  background: #000;
+  background: #1b9cd9;
 }
 
 @media (max-width: 767px) {
@@ -2801,7 +2801,7 @@ h3 {
   font-size: 153px;
   text-transform: uppercase;
   font-weight: 400;
-  color: #fff;
+  color: #e7ff00;
   line-height: 1;
   margin-top: 5px;
   margin-bottom: 23px;
