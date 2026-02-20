@@ -1136,7 +1136,7 @@ h3 {
   position: relative;
   text-transform: uppercase;
 }
-
+ 
 @media (min-width: 992px) and (max-width: 1200px) {
   /* line 138, ../../Arafath/CL/Cl November/227. Health _ Fitness/HTML/scss/_header.scss */
   .header-area .main-header-area .main-menu ul li a {
